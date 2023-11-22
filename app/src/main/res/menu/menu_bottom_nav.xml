@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fragment_home"
+        android:title="한 눈에 보기"
+        android:icon="@drawable/fridge"
+        />
+
+    <item
+        android:id="@+id/fragment_search"
+        android:title="냉장고 털기"
+        android:icon="@drawable/cook"
+       />
+    <item
+        android:id="@+id/fragment_favorite"
+        android:title="원터치 주문"
+
+        android:icon="@drawable/cart" />
+    <item
+        android:id="@+id/fragment_settings"
+        android:icon="@drawable/my"
+        android:title="마이페이지"/>
+</menu>

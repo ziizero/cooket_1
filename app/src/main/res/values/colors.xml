@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Gold">#FFFFD700</color>
+    <color name="navigation_color_add">#6200EE</color>
+    <color name="navigation_color_mood">#C9379D</color>
+    <color name="navigation_color_habit">#E6A919</color>
+    <color name="navigation_color_chart">#008577</color>
+    <color name="navigation_color_profile">#1194AA</color>
+
+    <color name="your_text_color">#FF000000</color>
+
+    <color name="your_header_text_color">#FF37F5</color>
+
+    <color name="colorPrimary">#FF000000</color>
+    <color name="pink">#E840AA</color>
+    <color name="colorPrimaryDarker">#FF000000</color>
+    <color name="WeekDayTextAppearance">#2196F3</color>
+    <color name="blue">#2196F3</color>
+    <color name="dark_blue">#0000FF</color> <!-- 더 진한 파란색 -->
+
+
+
+
+
+</resources>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Other styles may already exist here -->
+
+    <style name="CustomCalendarTextAppearance">
+        <item name="android:textColor">@color/your_text_color</item>
+    </style>
+
+    <style name="CustomHeaderText" parent="TextAppearance.AppCompat.Large">
+        <item name="android:textColor">@color/your_header_text_color</item>
+        <!-- Add more styling attributes as needed -->
+    </style>
+
+
+    <style name="CalenderViewCustom" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorAccent">@color/navigation_color_mood</item> <!-- 오늘 날짜의 색상 -->
+        <item name="android:textColorPrimary">@color/colorPrimaryDarker</item>
+        <item name="android:dateTextAppearance">@color/dark_blue</item> <!-- 주말 날짜의 색상 -->
+    </style>
+    <style name="WeekDayTextAppearance" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/blue</item> <!-- 주말 날짜의 색상 -->
+        <item name="android:weekDayTextAppearance">@array/week_day_array</item> <!-- 요일의 문자열 배열 -->
+    </style>
+    <style name="CalendarHeaderText">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+
+
+
+</resources>
